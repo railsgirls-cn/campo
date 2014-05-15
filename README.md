@@ -1,5 +1,7 @@
 # RailsGirlsChina
 
+This Repo is closed, because github can't support forking a fork Repo.
+
 This is <http://railsgirlschina.com> 's SourceCode.
 
 
